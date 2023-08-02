@@ -20,5 +20,5 @@ Demo: https://drive.google.com/file/d/1Adt44bbXiiDs7LVLe3GnAgB9yFJTxUbz/view?usp
 
 ## References
 
-[Savjee/SavjeeCoin: A simple blockchain in Javascript. For educational purposes only. (github.com)](https://github.com/Savjee/SavjeeCoin)
-[lhartikk/naivecoin: A tutorial for building a cryptocurrency. (github.com)](https://github.com/lhartikk/naivecoin)
+[Savjee/SavjeeCoin: A simple blockchain in Javascript. ](https://github.com/Savjee/SavjeeCoin)
+[lhartikk/naivecoin: A tutorial for building a cryptocurrency.](https://github.com/lhartikk/naivecoin)
