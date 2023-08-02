@@ -1,0 +1,2 @@
+# MyCoin
+A simple blockchain
