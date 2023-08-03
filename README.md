@@ -1,4 +1,5 @@
 # KittyCoin
+Student ID: 19127552-Nguyễn Thanh Thảo
 
 A simple wallet of blockchain.
 
